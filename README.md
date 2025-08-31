@@ -2,7 +2,9 @@
 
 <!-- Typing Animation Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38FDD8&center=true&width=900&height=60&lines=I+am+iOS+Developer;I+build+projects+with+Swift+%26+SwiftUI;Tech+Explorer" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38FDD8&center=true&width=900&height=60&lines=I+am+iOS+Developer;I+build+projects+with+Swift+%26+SwiftUI;Tech+Explorer" alt="Typing SVG" />
+  </a>
 </p>
 
 <!-- Banner GIF -->
@@ -22,15 +24,15 @@
 ---
 
 ## 💡 Projects
-✨ Here are some of my highlighted works:  
+✨ Some of my highlighted works:  
 - **[Weather App](https://github.com/ShashankYadav28/WeatherApp)** 🌤️ – Real-time weather updates with Swift & SwiftUI  
-- **[Apple Framework Explorer](https://github.com/ShashankYadav28/AppleFrameworkExplorer)** 🍎 – Explore and test Apple frameworks  
+- **[Apple Framework Explorer](https://github.com/ShashankYadav28/AppleFrameworkExplorer)** 🍎 – Explore Apple frameworks interactively  
 - **[OneClick Color](https://github.com/ShashankYadav28/OneClickColor)** 🎨 – Pick and copy colors instantly  
 - **[Card Workout](https://github.com/ShashankYadav28/CardWorkout)** 💪 – Track workouts with card-based challenges  
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/shashank-yadav-8aa627328" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:shashankyadav2803@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -64,7 +66,16 @@
       </td>
     </tr>
   </table>
-
-  <img src="https://pacman.abozanona.me?username=ShashankYadav28" />
 </p>
 
+---
+
+## 🌍 My Dev World
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShashankYadav28&theme=radical" alt="Profile Summary"/>
+</p>
+<p align="center">
+  <img src="https://github.com/ShashankYadav28/ShashankYadav28/blob/main/github-contribution-grid-snake.svg" width="700"/>
+  <br>
+  <img src="https://pacman.abozanona.me?username=ShashankYadav28" width="500"/>
+</p>
