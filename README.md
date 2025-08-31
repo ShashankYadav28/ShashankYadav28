@@ -2,11 +2,10 @@
 
 <!-- Banner -->
 <!-- Banner -->
-![Header](https://raw.githubusercontent.com/your-username/your-repo/main/assets/header.png)
+![Header](https://raw.githubusercontent.com/<your-username>/<your-repo>/main/assets/header.png)
 
 ## 👋 Hi, I'm Shashank Yadav  
 **Second-year CSE Core @ SRM IST | iOS Developer | Swift & SwiftUI Enthusiast**
-
 
 <!--
 **ShashankYadav28/ShashankYadav28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
