@@ -30,56 +30,10 @@
 
 ## 💡 Projects
 <p align="center">
-  <a href="https://github.com/ShashankYadav28/WeatherApp">
-    <img src="https://img.shields.io/badge/Weather%20App-38FDD8?style=for-the-badge&logo=appveyor&logoColor=white" alt="Weather App"/>
-  </a>
-  <a href="https://github.com/ShashankYadav28/AppleFrameworkExplorer">
-    <img src="https://img.shields.io/badge/Apple%20Framework%20Explorer-FF6F61?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Framework Explorer"/>
-  </a>
-  <a href="https://github.com/ShashankYadav28/OneClickColor">
-    <img src="https://img.shields.io/badge/OneClick%20Color-F7DF1E?style=for-the-badge&logo=react&logoColor=black" alt="OneClick Color"/>
-  </a>
-  <a href="https://github.com/ShashankYadav28/CardWorkout">
-    <img src="https://img.shields.io/badge/Card%20Workout-4CAF50?style=for-the-badge&logo=googlefit&logoColor=white" alt="Card Workout"/>
-  </a>
-</p>
-
-<p align="center">
-  <!-- Project Cards -->
-  <table>
-    <tr>
-      <td align="center" style="border-radius:12px; background-color:#0D1117; padding:10px;">
-        <a href="https://github.com/ShashankYadav28/WeatherApp" target="_blank">
-          <img src="https://img.icons8.com/ios-filled/100/38FDD8/weather.png" width="60"/>
-          <h4 style="color:#38FDD8;">Weather App</h4>
-        </a>
-        <p style="color:#FFFFFF; max-width:180px;">Get real-time weather updates with Swift & SwiftUI, search locations and check forecasts easily.</p>
-      </td>
-      <td align="center" style="border-radius:12px; background-color:#0D1117; padding:10px;">
-        <a href="https://github.com/ShashankYadav28/AppleFrameworkExplorer" target="_blank">
-          <img src="https://img.icons8.com/ios-filled/100/FF6F61/mac.png" width="60"/>
-          <h4 style="color:#FF6F61;">Apple Framework Explorer</h4>
-        </a>
-        <p style="color:#FFFFFF; max-width:180px;">Explore Apple frameworks interactively and test their features for learning and prototyping.</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="border-radius:12px; background-color:#0D1117; padding:10px;">
-        <a href="https://github.com/ShashankYadav28/OneClickColor" target="_blank">
-          <img src="https://img.icons8.com/ios-filled/100/F7DF1E/color-palette.png" width="60"/>
-          <h4 style="color:#F7DF1E;">OneClick Color</h4>
-        </a>
-        <p style="color:#FFFFFF; max-width:180px;">Pick colors with one click and copy their hex codes instantly for your design projects.</p>
-      </td>
-      <td align="center" style="border-radius:12px; background-color:#0D1117; padding:10px;">
-        <a href="https://github.com/ShashankYadav28/CardWorkout" target="_blank">
-          <img src="https://img.icons8.com/ios-filled/100/4CAF50/fitness.png" width="60"/>
-          <h4 style="color:#4CAF50;">Card Workout</h4>
-        </a>
-        <p style="color:#FFFFFF; max-width:180px;">Engage in fun card-based workouts with exercise tracking and timer integration.</p>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/ShashankYadav28/WeatherApp"><img src="https://img.shields.io/badge/Weather%20App-38FDD8?style=for-the-badge&logo=appveyor&logoColor=white" alt="Weather App"/></a>
+  <a href="https://github.com/ShashankYadav28/AppleFrameworkExplorer"><img src="https://img.shields.io/badge/Apple%20Framework%20Explorer-FF6F61?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Framework Explorer"/></a>
+  <a href="https://github.com/ShashankYadav28/OneClickColor"><img src="https://img.shields.io/badge/OneClick%20Color-F7DF1E?style=for-the-badge&logo=react&logoColor=black" alt="OneClick Color"/></a>
+  <a href="https://github.com/ShashankYadav28/CardWorkout"><img src="https://img.shields.io/badge/Card%20Workout-4CAF50?style=for-the-badge&logo=googlefit&logoColor=white" alt="Card Workout"/></a>
 </p>
 
 ---
