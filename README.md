@@ -7,34 +7,26 @@
 
 <!-- Banner GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShashankYadav28/ShashankYadav28/main/Github.gif" width="500" style="border-radius:12px; box-shadow: 0 6px 25px rgba(0,0,0,0.4);" />
+  <img src="https://raw.githubusercontent.com/ShashankYadav28/ShashankYadav28/main/Github.gif" width="600" style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
 </p>
 
 ---
 
 ## 🚀 About Me
-<p align="center">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SwiftUI-0052CC?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-<p align="center">
 - 🎯 Passionate **iOS Developer**  
-- 🌱 Building **iOS apps & exploring advanced DSA**  
+- 🛠 Skilled in **Swift, SwiftUI, C++, Python**  
+- 🌱 Currently building **iOS apps & learning advanced DSA**  
 - 🤝 Open to exciting **collaborations**  
 - 📫 Reach me at **shashankyadav2803@gmail.com**  
-</p>
 
 ---
 
 ## 💡 Projects
-<p align="center">
-  <a href="https://github.com/ShashankYadav28/WeatherApp"><img src="https://img.shields.io/badge/Weather%20App-38FDD8?style=for-the-badge&logo=appveyor&logoColor=white" alt="Weather App"/></a>
-  <a href="https://github.com/ShashankYadav28/AppleFrameworkExplorer"><img src="https://img.shields.io/badge/Apple%20Framework%20Explorer-FF6F61?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Framework Explorer"/></a>
-  <a href="https://github.com/ShashankYadav28/OneClickColor"><img src="https://img.shields.io/badge/OneClick%20Color-F7DF1E?style=for-the-badge&logo=react&logoColor=black" alt="OneClick Color"/></a>
-  <a href="https://github.com/ShashankYadav28/CardWorkout"><img src="https://img.shields.io/badge/Card%20Workout-4CAF50?style=for-the-badge&logo=googlefit&logoColor=white" alt="Card Workout"/></a>
-</p>
+✨ Here are some of my highlighted works:  
+- **[Weather App](https://github.com/ShashankYadav28/WeatherApp)** 🌤️ – Real-time weather updates with Swift & SwiftUI  
+- **[Apple Framework Explorer](https://github.com/ShashankYadav28/AppleFrameworkExplorer)** 🍎 – Explore and test Apple frameworks  
+- **[OneClick Color](https://github.com/ShashankYadav28/OneClickColor)** 🎨 – Pick and copy colors instantly  
+- **[Card Workout](https://github.com/ShashankYadav28/CardWorkout)** 💪 – Track workouts with card-based challenges  
 
 ---
 
@@ -72,13 +64,8 @@
       </td>
     </tr>
   </table>
+
+  <img src="https://pacman.abozanona.me?username=ShashankYadav28" />
 </p>
 
----
-
-## 📈 Contributions & Fun
-<p align="center">
-  <img src="https://github.com/ShashankYadav28/ShashankYadav28/blob/main/github-contribution-grid-snake.svg" width="700"/>
-  <br>
-  <img src="https://pacman.abozanona.me?username=ShashankYadav28" width="500"/>
-</p>
+in this add another graph or that will look sexy and make the formatting color best if someone say it should look sexy
