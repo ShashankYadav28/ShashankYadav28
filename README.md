@@ -1,10 +1,8 @@
 <h1 align="left">Hi, I'm Shashank Yadav 👋</h1>
 
-<!-- Typing Animation Banner -->
+<!-- Typing Animation Banner (Option 1 - Working) -->
 <p align="left">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38FDD8&left=true&width=900&height=60&lines=Swift;SwiftUI;C++;Python" alt="Typing SVG" />
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38FDD8&width=900&height=60&lines=Swift;SwiftUI;C++;Python" alt="Typing SVG" />
 </p>
 
 <!-- Banner / GIF -->
