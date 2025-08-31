@@ -2,6 +2,7 @@
 
 <!-- Banner -->
 <!-- Banner -->
+<!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShashankYadav28/ShashankYadav28/main/banner.png" alt="Shashank Yadav Banner" width="100%">
 </p>
@@ -16,18 +17,18 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently working on iOS Apps using **Swift & SwiftUI**  
+- 🔭 Currently building **iOS apps using Swift & SwiftUI**  
 - 🌱 Exploring **DSA in C++** and **Python for projects**  
-- 💡 Passionate about **building apps, solving problems, and open source contributions**  
+- 💡 Passionate about **creating apps, solving problems, and contributing to open source**  
 - ⚡ Fun fact: I love blending **design + development** to make apps stand out!  
 
 ---
 
-## 📊 GitHub Contributions & Streaks  
+## 📊 GitHub Stats & Streaks  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShashankYadav28&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShashankYadav28&theme=tokyonight" alt="GitHub Streak" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=ShashankYadav28&theme=tokyonight" alt="GitHub Streak" height="180em"/>
 </p>
 
 ---
@@ -50,18 +51,15 @@
   <a href="https://github.com/ShashankYadav28"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
+---
 
 <!--
 **ShashankYadav28/ShashankYadav28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+You can customize it by adding:
+- 🔭 Projects you are working on
+- 🌱 Skills you are learning
+- 👯 Collaboration opportunities
+- 💬 Ask me about iOS, SwiftUI, Python, or DSA
+- ⚡ Fun facts about you
 -->
