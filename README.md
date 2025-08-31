@@ -76,6 +76,4 @@
 </p>
 <p align="center">
   <img src="https://github.com/ShashankYadav28/ShashankYadav28/blob/main/github-contribution-grid-snake.svg" width="700"/>
-  <br>
-  <img src="https://pacman.abozanona.me?username=ShashankYadav28" width="500"/>
 </p>
