@@ -1,11 +1,13 @@
 <h1 align="center">Hi, I'm Shashank Yadav 👋</h1>
 
+<!-- Typing Animation Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38FDD8&center=true&width=900&height=60&lines=Swift;SwiftUI;C++;Python;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38FDD8&center=true&width=900&height=60&lines=I+am+iOS+Developer;I+build+projects+with+Swift+%26+SwiftUI;Tech+Explorer" alt="Typing SVG" />
 </p>
 
+<!-- Banner GIF -->
 <p align="center">
-  <img src="https://github.com/ShashankYadav28/ShashankYadav28/blob/main/pixelart.png" width="600" style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+  <img src="https://raw.githubusercontent.com/ShashankYadav28/ShashankYadav28/main/Github.gif" width="600" style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
 </p>
 
 ---
@@ -37,7 +39,6 @@
 
 ---
 
-
 ## 🛠️ Tools & Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
@@ -48,7 +49,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
-
 
 ---
 
@@ -65,6 +65,5 @@
     </tr>
   </table>
 
-<img src="https://pacman.abozanona.me?username=ShashankYadav28" />
+  <img src="https://pacman.abozanona.me?username=ShashankYadav28" />
 </p>
-
