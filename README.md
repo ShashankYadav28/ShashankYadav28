@@ -2,10 +2,15 @@
 
 <!-- Banner -->
 <!-- Banner -->
-![Header](https://raw.githubusercontent.com/<your-username>/<your-repo>/main/assets/header.png)
+README.md
+header.png
 
-## 👋 Hi, I'm Shashank Yadav  
-**Second-year CSE Core @ SRM IST | iOS Developer | Swift & SwiftUI Enthusiast**
+<!-- Header Image -->
+![Header](https://raw.githubusercontent.com/ShashankYadav/ShashankYadav/main/header.png)
+
+<h1 align="center">Hi 👋, I'm Shashank Yadav</h1>
+<h3 align="center">🚀 2nd Year CSE Core @ SRM IST | Swift & SwiftUI | C++ | Python | DSA Enthusiast</h3>
+
 
 <!--
 **ShashankYadav28/ShashankYadav28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
