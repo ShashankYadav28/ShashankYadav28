@@ -2,14 +2,11 @@
 
 <!-- Banner -->
 <!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/6hYj6Oa.gif" alt="banner" width="800"/>
-</p>
+![Header](https://raw.githubusercontent.com/your-username/your-repo/main/assets/header.png)
 
-<h1 align="center">👋 Hi, I'm Shashank Yadav</h1>
-<h3 align="center">Second-year CSE Core @ SRM IST | iOS Developer | Swift & SwiftUI Enthusiast</h3>
+## 👋 Hi, I'm Shashank Yadav  
+**Second-year CSE Core @ SRM IST | iOS Developer | Swift & SwiftUI Enthusiast**
 
----
 
 <!--
 **ShashankYadav28/ShashankYadav28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
