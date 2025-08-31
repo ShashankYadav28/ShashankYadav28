@@ -9,12 +9,17 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShashankYadav28/ShashankYadav28/main/banner.png" alt="Shashank Yadav Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/ShashankYadav28/ShashankYadav28/main/banner.png" 
+       alt="Shashank Yadav Banner" 
+       width="800" 
+       style="max-width: 90%; border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
 </p>
 
 <!-- GIF -->
 <p align="center">
-<img src="https://i.pinimg.com/originals/26/2b/30/262b30790f6f4d773dc3a38e7b1c98d2.gif" width="600" style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+<img src="https://i.pinimg.com/originals/26/2b/30/262b30790f6f4d773dc3a38e7b1c98d2.gif" 
+     width="450" 
+     style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
 </p>
 
 ---
@@ -71,15 +76,3 @@
 <p align="center">
   <img src="https://github.com/ShashankYadav28/ShashankYadav28/blob/output/github-contribution-grid-snake.svg" />
 </p>
-
-
-<!--
-**ShashankYadav28/ShashankYadav28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-You can customize it by adding:
-- 🔭 Projects you are working on
-- 🌱 Skills you are learning
-- 👯 Collaboration opportunities
-- 💬 Ask me about iOS, SwiftUI, Python, or DSA
-- ⚡ Fun facts about you
--->
