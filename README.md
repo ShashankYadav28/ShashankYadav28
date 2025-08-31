@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/zP6aJ8K.gif" alt="banner" width="800"/>
+</p>
+
+<h1 align="center">👋 Hi, I'm Shashank Yadav</h1>
+<h3 align="center">CSE Student @ SRM IST | iOS Developer | Swift & SwiftUI Enthusiast</h3>
+
+---
+
 <!--
 **ShashankYadav28/ShashankYadav28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
