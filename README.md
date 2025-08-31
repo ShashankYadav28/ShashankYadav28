@@ -75,5 +75,5 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShashankYadav28&theme=radical" alt="Profile Summary"/>
 </p>
 <p align="center">
-  <img src="https://github.com/ShashankYadav28/ShashankYadav28/blob/main/github-contribution-grid-snake.svg" width="700"/>
+  <img src="https://raw.githubusercontent.com/ShashankYadav28/ShashankYadav28/main/github-contribution-grid-snake.svg" width="700"/>
 </p>
